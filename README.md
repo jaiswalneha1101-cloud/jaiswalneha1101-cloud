@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Neha Jaiswal 👋
 
-<!--
-**jaiswalneha1101-cloud/jaiswalneha1101-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Full Stack Developer with 4+ years of experience in software development, building web applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Backend:** PHP, Laravel, Python, Django, Node.js
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Database:** MySQL
+- **APIs:** REST APIs
+- **Tools:** Git, GitHub, Linux
+- **Cloud:** AWS
+
+### 🚀 Currently Learning
+
+- Advanced Python & Django
+- REST API Development
+- System Design
+- Cloud & AWS
+
+### 📌 Featured Projects
+
+- 📝 Django ToDo Application
+- 👤 User Management REST API
+- 🛒 E-commerce Application
+
+### 📫 Connect With Me
+
+- LinkedIn: [Neha Jaiswal](https://www.linkedin.com/in/neha-jaiswal-405a9125a)
+
+---
+
+⭐ Thanks for visiting my profile!
